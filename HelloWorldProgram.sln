@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodOverLoading", "Method
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP-Class", "OOP-Class\OOP-Class.csproj", "{9360644A-9B42-49E2-89AD-5DDC6E76DA32}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "classOOPsClass2", "classOOPsClass2\classOOPsClass2.csproj", "{8C0902BD-D607-4BCD-ABD8-DE9BEFE3C6B5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{9360644A-9B42-49E2-89AD-5DDC6E76DA32}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9360644A-9B42-49E2-89AD-5DDC6E76DA32}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9360644A-9B42-49E2-89AD-5DDC6E76DA32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C0902BD-D607-4BCD-ABD8-DE9BEFE3C6B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C0902BD-D607-4BCD-ABD8-DE9BEFE3C6B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C0902BD-D607-4BCD-ABD8-DE9BEFE3C6B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C0902BD-D607-4BCD-ABD8-DE9BEFE3C6B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

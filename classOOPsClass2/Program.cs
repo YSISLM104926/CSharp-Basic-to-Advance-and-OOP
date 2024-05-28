@@ -1,17 +1,13 @@
 ﻿class Car
 {
-    string color = "red";
+    public string color = "red";
+}
 
+class classOOPsClass2
+{
     static void Main(string[] args)
     {
         Car myObj = new Car();
-        Car myObj2 = new Car();
         Console.WriteLine(myObj.color);
-        Console.WriteLine(myObj2.color);
     }
-}
-
-class Fruit
-{
-
 }
