@@ -10,8 +10,3 @@
         Console.WriteLine(myObj2.color);
     }
 }
-
-class Fruit
-{
-
-}
